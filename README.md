@@ -9,6 +9,6 @@
 - Список онлайн-пользователей
 - Уведомление о входе/выходе
 
-![Скриншот начального экрана](screenshots/first-screen.png)
+![Скриншот начального экрана](screenshots/First-screen.png)
 
-![Скриншот самого чата](screenshots/second-screen.png)
+![Скриншот самого чата](screenshots/Second-screen.png)
